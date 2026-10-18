@@ -188,7 +188,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
 - [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 - [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
-- [xCreen](https://github.com/Al-ex-W/xCreen) - Open source screen memory: local OCR of the foreground window, with short takeaways written to Obsidian daily notes by Claude Code (Mac).
+- [xCreen](https://github.com/Al-ex-W/xCreen) - Open source screen memory: local OCR of the foreground window, with short takeaways written to Obsidian daily notes by Hermes Agent (Mac).
 
 ### Wealth
 - [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
